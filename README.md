@@ -20,7 +20,7 @@ Movies is a React-based movie website that allows users to search for movies by 
 
 
 ## Project Link :
-✨ **[Films app](https://elaborate-croquembouche-2f96a1.netlify.app/)**
+✨ **[Tickets Airplane app](https://64fb7bf22ec0d94ff3cd0350--loquacious-halva-13f92b.netlify.app/)**
 ## Available Scripts
 
 In the project directory, you can run:
