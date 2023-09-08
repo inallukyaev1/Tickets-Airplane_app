@@ -1,5 +1,5 @@
 # Tickets Airplane App
-Tickets Airplane is a React-based airline ticket website that allows users to search for flights by connection, sort ticket prices by currency. The website is designed to be user-friendly and visually appealing.
+Tickets Airplane is a React-based airline ticket website that allows users to search for flights by transfers, sort ticket prices by currency. The website is designed to be user-friendly and visually appealing.
 
 
 
