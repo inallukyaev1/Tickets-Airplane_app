@@ -1,12 +1,11 @@
 import { DefaultStateInterface, defaultState } from '../elements/elements';
 import { createStore } from 'redux';
-import { Itickets } from '../interfaces/interfaces';
 
 export const reducer = (
     state = defaultState,
     action: {
         type: string;
-        payload: string;
+        payload: any;
     }
 ) => {
     switch (action.type) {
