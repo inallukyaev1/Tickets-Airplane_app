@@ -5,7 +5,7 @@ Movies is a React-based movie website that allows users to search for movies by 
 
 # 🍿 Features 
 - display: tickets can be sorted by transfers
-- tickets Details: sorting tickets by dollar, ruble and euro
+- tickets details: sorting ticket prices by dollars, rubles and euros
 - button to scroll page up
 
 
